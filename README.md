@@ -40,6 +40,14 @@ make
 ./math_calculator
 ```
 
+if you fail to build this package, you can use the script/build.sh
+
+```bash
+cdmodx +x script/build.sh && cd script
+./build.sh --run
+```
+
+
 ## Output
 
 ```
