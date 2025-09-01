@@ -1,0 +1,17 @@
+# CMake build files
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Rust build files
+rust_math/target/
+rust_math/Cargo.lock
+
+# Generated libraries
+*.a
+*.so
+*.dll
+*.dylib
